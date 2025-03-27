@@ -15,6 +15,11 @@ A multi-language AI-powered chatbot with voice input and output, using Google's 
 - **AI Integration:** Google Gemini API
 - **Voice Processing:** Web Speech API (or any speech recognition & synthesis library)
 
+ ## 🌐 Live Demo  
+Check out the live version of **Multilanguage-GeminiChatbot** here:  
+🔗 [Live Chatbot](https://glistening-biscochitos-691308.netlify.app/)
+
+
 ## 📌 Setup Instructions
 
 ### 1️⃣ Clone the Repository
