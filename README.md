@@ -13,7 +13,6 @@ A multi-language AI-powered chatbot with voice input and output, using Google's 
 ## 🛠️ Technologies Used
 - **Frontend:** HTML, CSS, JavaScript
 - **AI Integration:** Google Gemini API
-- **Voice Processing:** Web Speech API (or any speech recognition & synthesis library)
 
  ## 🌐 Live Demo  
 Check out the live version of **Multilanguage-GeminiChatbot** here:  
